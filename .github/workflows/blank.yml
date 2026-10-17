@@ -1,0 +1,7 @@
+echo "# PC-Virtual-Gr-tis" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/mykaelbelem8-ux/PC-Virtual-Gr-tis.git
+git push -u origin main
